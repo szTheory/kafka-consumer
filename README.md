@@ -4,7 +4,7 @@ Scalable consumer for Kafka using brod.
 
 ## Installation
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed as:
+If [available in Hex](https://hex.pm/packages/kafka_consumer), the package can be installed as:
 
 * Add `kafka_consumer` to your list of dependencies in `mix.exs`:
 
